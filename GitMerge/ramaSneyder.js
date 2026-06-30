@@ -5,3 +5,7 @@ let total = precio-descuento;
 
 console.log("El descuento es del: " + descuento);
 console.log("El total es del: " + total);
+
+let cliente = "Ana";
+let valor = 3000;
+console.log("Cliente:", cliente, "- Domicilio: $", valor);
